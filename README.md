@@ -8,12 +8,12 @@
 		 🪐 I Likes Rap music, Game<br>  
 		 <a href="https://instagram.com/cod_pooriya.yt">📷 Instagram
  </p>
- <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&label=Profile Views" draggable="false">
+ <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false">
 </td>
 	<tr>
 	<td width="1200px">
 	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html" draggable="false"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html,markdown" draggable="false"></td>
 	</tr>
 	<table>   
    
@@ -45,3 +45,7 @@
 <a align="center" href="https://discord.com/users/994617436655587400">
  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/994617436655587400?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
    </a>
+
+<br>
+
+
