@@ -41,5 +41,7 @@
 		</td>
 	</tr>
 </table>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/994617436655587400?theme=light&bg=280137&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true)](https://discord.com/users/994617436655587400)
+<h4>My Discord Status</h4>
+<a align="center" href="https://discord.com/users/994617436655587400">
+ <img align="center" src="https://lanyard-profile-readme.vercel.app/api/994617436655587400?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
+   </a>
