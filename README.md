@@ -41,3 +41,5 @@
 		</td>
 	</tr>
 </table>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/994617436655587400?theme=light&bg=280137&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true)](https://discord.com/users/994617436655587400)
