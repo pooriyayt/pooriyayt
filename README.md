@@ -15,7 +15,7 @@
 	<tr>
 	<td width="1200px">
 	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html,markdown,php,cs,c++" draggable="false"></td>
+	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html,markdown,php,cs" draggable="false"></td>
 	</tr>
 	<table>   
    
