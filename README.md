@@ -45,7 +45,7 @@
 </table>
 <h4>My Discord Status</h4>
 <a align="center" href="https://discord.com/users/853549227820974121">
- <img align="center" src="https://lanyard-profile-readme.vercel.app/api/994617436655587400?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
+ <img align="center" src="https://lanyard-profile-readme.vercel.app/api/853549227820974121?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
    </a>
 
 <br>
