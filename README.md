@@ -4,11 +4,13 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me</h2>
-		💻 Developer, Desiner, Gamer<br>
-		 🪐 I Likes Rap music, Game<br>  
-		 <a href="https://instagram.com/cod_pooriya.yt">📷 Instagram
+🍃  I'm ♡
+🥂  Type: ENFJ-T
+⭐ Website : <a href="https://wild-life-studio.ir/">
+💻 Im Front-end Developer
+🎵 I Like Lo-Fi And Rap Music's
  </p>
- <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://pooriya.wild-life-studio.ir/donate"> <img src="https://img.shields.io/badge/donate-IDPay-104098.svg?style=&logo=paypal" draggable="false"></a>
+ <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://pooriya.wild-life-studio.ir/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
 
 
 </td>
