@@ -8,7 +8,7 @@
 		 🪐 I Likes Rap music, Game<br>  
 		 <a href="https://instagram.com/cod_pooriya.yt">📷 Instagram
  </p>
- <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://idpay.ir/wild-life-bot"> <img src="https://img.shields.io/badge/donate-IDPay-104098.svg?style=&logo=paypal" draggable="false"></a>
+ <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://pooriya.wild-life-studio.ir/donate"> <img src="https://img.shields.io/badge/donate-IDPay-104098.svg?style=&logo=paypal" draggable="false"></a>
 
 
 </td>
