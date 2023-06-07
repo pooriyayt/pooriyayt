@@ -4,11 +4,11 @@
 <table>
 	 <td width="1200px">
 	 <h2>About Me</h2>
-🍃  I'm ♡
-🥂  Type: ENFJ-T
-⭐ Website : <a href="https://wild-life-studio.ir/">
-💻 Im Front-end Developer
-🎵 I Like Lo-Fi And Rap Music's
+🍃  I'm ♡<br>
+🥂  Type: ENFJ-T<br>
+⭐ Website : <a href="https://wild-life-studio.ir/"><br>
+💻 Im Front-end Developer<br>
+🎵 I Like Lo-Fi And Rap Music's<br>
  </p>
  <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://pooriya.wild-life-studio.ir/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
 
