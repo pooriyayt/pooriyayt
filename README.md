@@ -10,7 +10,7 @@
 💻 Im Front-end Developer<br>
 🎵 I Like Lo-Fi And Rap Music's<br>
  </p>
- <img src="https://komarev.com/ghpvc/?username=pooriyaYT1374&color=brightgreen&label=Profile Views" draggable="false"> <a href="https://wl-std.com/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
+ <a href="https://wl-std.com/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
 
 
 </td>
