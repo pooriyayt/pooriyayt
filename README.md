@@ -11,7 +11,7 @@
 🎵 I Like Lo-Fi And Rap Music's<br>
  </p>
  <a href="https://wl-std.com/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
-<img align="right" src="https://moe-counter.glitch.me/get/@:pooriyaYT1374" draggable="false
+<img align="right" src="https://moe-counter.glitch.me/get/@:pooriyaYT1374" draggable="false">
 
 </td>
 	<tr>
