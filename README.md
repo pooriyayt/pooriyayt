@@ -30,7 +30,7 @@
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,linkedin" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,linkedin,twitter" draggable="false">
 		</td>
 	</tr>
 </table>
