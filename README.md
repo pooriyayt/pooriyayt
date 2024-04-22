@@ -16,8 +16,8 @@
 </td>
 	<tr>
 	<td width="1200px">
-	<h3>Programming languages</h3>
-	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html,markdown,php,cs" draggable="false"></td>
+	<h3>Programming languages & Knowledge</h3>
+	<img align="right" src="https://skillicons.dev/icons?i=js,python,css,html,markdown,php,cs,nodejs,mongo,cloudflare,aws,bootstrap,vue,linux,windows" draggable="false"></td>
 	</tr>
 	<table>   
    
@@ -26,11 +26,11 @@
 	<tr>
 		<td width="1200px">
 	    <h3>Apps :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,autocad,qt,figma,ps,pr,powershell" draggable="false">
 		</td>
 		<td width="1200px">
 	    <h3>Platforms :</h3>
-        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github" draggable="false">
+        <img align="right" src="https://skillicons.dev/icons?i=discord,instagram,github,linkedin" draggable="false">
 		</td>
 	</tr>
 </table>
