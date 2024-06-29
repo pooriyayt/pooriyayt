@@ -1,7 +1,7 @@
 
 <table>
 	 <td width="1200px">
-		 <img src="https://cdn.discordapp.com/attachments/1091770442232103042/1230045509746688010/2.png?ex=6631e426&is=661f6f26&hm=209ce424eddac4cf53af8a50d22011edfe1ea0531988a31baef8c2960dd945d3&" draggable="false">
+		 <img src="https://cdn.wl-std.com/assets/image/banner/pooriyaYT1374.png" draggable="false">
 	 <h2>About Me</h2>
 🍃  I'm ♡<br>
 🥂  Type: ENFJ-T<br>
