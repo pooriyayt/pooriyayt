@@ -10,7 +10,7 @@
 🎵 I Like Lo-Fi And Rap Music's<br>
  </p>
  <a href="https://pooriya.wl-std.com/donate"> <img src="https://img.shields.io/badge/Donate-104098.svg?style=&logo=paypal" draggable="false"></a>
-<img align="right" src="https://moe-counter.glitch.me/get/@:pooriyaYT1374" draggable="false">
+<img align="right" src="https://moe-counter.glitch.me/get/@:pooriyayt" draggable="false">
 
 </td>
 	<tr>
@@ -37,15 +37,15 @@
 <table align="center">
 	<tr>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriyaYT1374&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriyayt&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyaYT1374&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" draggable="false">
 		</td>
 	</tr>
 </table>
 <h4>My Discord Status</h4>
-<a align="center" href="https://discord.com/users/449369771469701132">
+<a align="center" href="https://discord.com/users/375620573541302272">
  <img align="center" src="https://lanyard-profile-readme.vercel.app/api/375620573541302272?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true">
    </a>
 
