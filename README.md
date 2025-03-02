@@ -6,7 +6,7 @@
 # 💫 About Me:
 🍃 I'm ♡<br>🥂 Type: ENFJ-T<br>⭐ Website : <a href="https://pouriya.wl-std.com">pouriya.wl-std.com</a><br>💻 Im Front-end Developer<br>🎵 I Like Lo-Fi And Rap Music's
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=brown)](https://pooriya.wl-std.com/donate) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=brown)](https://pouriya.wl-std.com/donate) 
   ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BgFABrF6km) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wl-std) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wild-life-studio) 
 
