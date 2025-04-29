@@ -4,7 +4,7 @@
 		 <img src="https://cdn.wl-std.com/assets/image/banner/pooriyaYT1374.png" draggable="false">
 		 
 # 💫 About Me:
-🍃 I'm ♡<br>🥂 Type: ENFJ-T<br>⭐ Website : <a href="https://pouriya.wl-std.com">pouriya.wl-std.com</a><br>💻 Im Front-end Developer<br>🎵 I Like Lo-Fi And Rap Music's
+🍃 I'm Pouriya Parniyan<br>🥂 Type: ENFJ-T<br>⭐ Website : <a href="https://pouriya.wl-std.com">pouriya.wl-std.com</a><br>💻 Im Front-end Developer<br>🎵 I Like Lo-Fi And Rap Music's
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=brown)](https://pouriya.wl-std.com/donate) 
   ## 🌐 Socials:
