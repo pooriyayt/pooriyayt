@@ -1,7 +1,7 @@
 
 <table>
 	 <td width="1200px">
-		 <img src="https://cdn.wl-std.com/assets/image/banner/pooriyaYT1374.png" draggable="false">
+		 <img src="https://cdn.wl-std.com/images/Pouriya%20Parniyan.webp" draggable="false">
 		 
 # 💫 About Me:
 🍃 I'm Pouriya Parniyan<br>🥂 Type: ENFJ-T<br>⭐ Website : <a href="https://pouriya.wl-std.com">pouriya.wl-std.com</a><br>💻 Im Front/Back-end Developer<br>🎵 I Like Lo-Fi And Rap Music's
