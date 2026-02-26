@@ -21,16 +21,6 @@
 </tr>
 
 
-<table align="center">
-	<tr>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pooriyayt&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false" draggable="false">
-		</td>
-		<td width="1200px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" draggable="false">
-		</td>
-	</tr>
-</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
