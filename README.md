@@ -25,13 +25,13 @@
 ```yaml
 identity:
   name: Pouriya Parniyan
-  role: Full-Stack Developer, Mobile OS & Systems Architect
+  role: Full-Stack Developer, Desktop & Mobile Software Craftsman
   organization: Founder @ Wild Life Studio (wl-std)
   personality: ENTJ-A (The Commander) — High standards, architectural precision & relentless execution
   location: Iran 📍
-  passions: Operating systems (Pocket OS), system telemetry (Pulse), bot architectures & developer tools
+  passions: Desktop utilities (Pulse), Android financial tools (PocketOS), uptime platforms & bots
   fuel: Lo-Fi beats, underground rap, and midnight code sessions 🎧☕
-  current_focus: Evolving Pocket OS & architecting modern Windows system tools
+  current_focus: Architecting robust system tools, UptimePlus & smart Android applications
 ```
 
 <br/>
@@ -41,7 +41,7 @@ identity:
     <td width="55%" valign="top">
       <h3>🚀 What I Do</h3>
       <ul>
-        <li>📱 <b>Mobile Systems &amp; OS:</b> Architecting <a href="https://github.com/pooriyayt/PocketOS"><b>Pocket OS</b></a> — custom lightweight mobile OS experience in Kotlin for Android.</li>
+        <li>📱 <b>Android Development:</b> Engineering <a href="https://github.com/pooriyayt/PocketOS"><b>PocketOS</b></a> — an intuitive, modern personal finance &amp; expense management app for Android built with Kotlin.</li>
         <li>🖥️ <b>Desktop Architecture:</b> Crafting modern Windows 11 apps like <a href="https://github.com/pooriyayt/pulse-system-monitor"><b>Pulse System Monitor</b></a> with C# &amp; .NET Fluent UI.</li>
         <li>🌐 <b>Full-Stack Web:</b> Building resilient web services and uptime platforms like <a href="https://github.com/pooriyayt/uptimeplus.ir"><b>UptimePlus.ir</b></a>.</li>
         <li>🤖 <b>Bot Ecosystems:</b> Engineering high-concurrency Discord bots (Music, Radio, Moderation, Tickets) handling complex user workflows.</li>
@@ -121,13 +121,13 @@ identity:
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/pooriyayt/PocketOS">📱 Pocket OS</a>
+        <a href="https://github.com/pooriyayt/PocketOS">💰 PocketOS</a>
       </h3>
-      <p>A lightweight, elegant, and modular custom mobile OS experience &amp; launcher for Android devices. Engineered in Kotlin with custom widgets and fluid animations.</p>
+      <p>A smart, modern personal finance &amp; expense tracking application for Android. Built with Kotlin to provide clean budget management, account overviews, and an intuitive UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-Mobile_OS-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/Android-System-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-        <img src="https://img.shields.io/badge/Version-v1.5.1-00ff88?style=flat-square" alt="v1.5.1" />
+        <img src="https://img.shields.io/badge/Kotlin-Android_App-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Category-Finance-00ff88?style=flat-square" alt="Finance" />
+        <img src="https://img.shields.io/badge/Version-v1.5.1-10b981?style=flat-square" alt="v1.5.1" />
       </p>
     </td>
     <td width="50%" valign="top">

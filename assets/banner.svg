@@ -125,7 +125,7 @@
 
     <!-- Subtitle / Mission -->
     <text x="0" y="116" class="font-sans" font-size="18" font-weight="500" fill="#d1fae5">
-      Architecting high-performance systems, Pocket OS &amp; smart bots
+      Architecting high-performance systems, UptimePlus &amp; smart bots
     </text>
 
     <!-- Tech Stack Line -->
@@ -137,19 +137,19 @@
     <g transform="translate(0, 185)">
       <!-- Pill 1: ENTJ-A -->
       <g>
-        <rect x="0" y="0" width="145" height="32" rx="16" fill="#071b12" stroke="#10b981" stroke-width="1" stroke-opacity="0.5"/>
+        <rect x="0" y="0" width="170" height="32" rx="16" fill="#071b12" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.6"/>
         <text x="14" y="20" class="font-sans" font-size="12" fill="#a7f3d0" font-weight="600">🎯 ENTJ-A Commander</text>
       </g>
 
       <!-- Pill 2: Studio -->
-      <g transform="translate(155, 0)">
-        <rect x="0" y="0" width="180" height="32" rx="16" fill="#071b12" stroke="#059669" stroke-width="1" stroke-opacity="0.5"/>
+      <g transform="translate(182, 0)">
+        <rect x="0" y="0" width="180" height="32" rx="16" fill="#071b12" stroke="#059669" stroke-width="1.2" stroke-opacity="0.6"/>
         <text x="14" y="20" class="font-sans" font-size="12" fill="#6ee7b7" font-weight="600">🏢 Founder @ Wild Life</text>
       </g>
 
       <!-- Pill 3: Vibe -->
-      <g transform="translate(345, 0)">
-        <rect x="0" y="0" width="150" height="32" rx="16" fill="#071b12" stroke="#34d399" stroke-width="1" stroke-opacity="0.5"/>
+      <g transform="translate(374, 0)">
+        <rect x="0" y="0" width="160" height="32" rx="16" fill="#071b12" stroke="#34d399" stroke-width="1.2" stroke-opacity="0.6"/>
         <text x="14" y="20" class="font-sans" font-size="12" fill="#a7f3d0" font-weight="600">🎧 Lo-Fi &amp; Rap Vibes</text>
       </g>
     </g>
