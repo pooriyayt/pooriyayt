@@ -9,21 +9,11 @@
 
   <!-- ================= QUICK ACCESS & SOCIALS ================= -->
   <p align="center">
-    <a href="https://pouriyaparniyan.ir">
-      <img src="https://img.shields.io/badge/Portfolio-pouriyaparniyan.ir-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://discord.gg/BgFABrF6km">
-      <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://youtube.com/@wild-life-studio">
-      <img src="https://img.shields.io/badge/YouTube-Wild%20Life%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://instagram.com/wl_pooriya">
-      <img src="https://img.shields.io/badge/Instagram-@wl__pooriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://pouriyaparniyan.ir/donate">
-      <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate" />
-    </a>
+    <a href="https://pouriyaparniyan.ir"><img src="https://img.shields.io/badge/Portfolio-pouriyaparniyan.ir-059669?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /></a>&nbsp;
+    <a href="https://discord.gg/BgFABrF6km"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+    <a href="https://youtube.com/@wild-life-studio"><img src="https://img.shields.io/badge/YouTube-Wild%20Life%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+    <a href="https://instagram.com/wl_pooriya"><img src="https://img.shields.io/badge/Instagram-@wl__pooriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+    <a href="https://pouriyaparniyan.ir/donate"><img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate" /></a>
   </p>
 
 </div>
@@ -206,21 +196,15 @@ identity:
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-stats.vercel.app/api?username=pooriyayt&show_icons=true&bg_color=040907&title_color=00ff88&icon_color=10b981&text_color=d1fae5&border_color=064e3b" alt="Pouriya's GitHub Stats" />
-        </a>
+        <a href="https://github.com/pooriyayt"><img src="https://github-readme-stats.vercel.app/api?username=pooriyayt&show_icons=true&bg_color=040907&title_color=00ff88&icon_color=10b981&text_color=ffffff&border_color=064e3b" alt="Pouriya's GitHub Stats" /></a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&layout=compact&bg_color=040907&title_color=00ff88&text_color=d1fae5&border_color=064e3b" alt="Top Languages" />
-        </a>
+        <a href="https://github.com/pooriyayt"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&layout=compact&bg_color=040907&title_color=00ff88&text_color=ffffff&border_color=064e3b" alt="Top Languages" /></a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
-        <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyayt&background=040907&ring=00ff88&fire=10b981&currStreakLabel=00ff88&border=064e3b" alt="Pooriya's Streak Stats" />
-        </a>
+        <a href="https://github.com/pooriyayt"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyayt&theme=dark&background=040907&border=064e3b&stroke=064e3b&ring=00ff88&fire=10b981&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=ffffff&sideLabels=34d399&dates=a7f3d0" alt="Pooriya's Streak Stats" /></a>
       </td>
     </tr>
   </table>
@@ -230,9 +214,7 @@ identity:
 
 <div align="center">
   <h3>✍️ Dev Philosophy</h3>
-  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  </a>
+  <a href="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" /></a>
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
@@ -243,29 +225,16 @@ identity:
 
   <p>Whether you want to discuss a project, need custom mobile/desktop architecture, want to collaborate on open-source software, or just chat about code & beats:</p>
 
-  <p>
-    <a href="https://pouriyaparniyan.ir">
-      <img src="https://img.shields.io/badge/Website-pouriyaparniyan.ir-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://discord.gg/BgFABrF6km">
-      <img src="https://img.shields.io/badge/Discord_Server-Wild_Life-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-    </a>
-    <a href="https://discord.com/users/375620573541302272">
-      <img src="https://img.shields.io/badge/Direct_Message-@wl__pooriya-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM" />
-    </a>
-    <a href="https://youtube.com/@wild-life-studio">
-      <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://instagram.com/wl_pooriya">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
+  <p align="center">
+    <a href="https://pouriyaparniyan.ir"><img src="https://img.shields.io/badge/Website-pouriyaparniyan.ir-059669?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" /></a>&nbsp;
+    <a href="https://discord.gg/BgFABrF6km"><img src="https://img.shields.io/badge/Discord_Server-Wild_Life-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>&nbsp;
+    <a href="https://discord.com/users/375620573541302272"><img src="https://img.shields.io/badge/Direct_Message-@wl__pooriya-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord DM" /></a>
   </p>
-
-  <br/>
-
-  <a href="https://pouriyaparniyan.ir/donate">
-    <img src="https://img.shields.io/badge/☕_Support_My_Work-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
-  </a>
+  <p align="center">
+    <a href="https://youtube.com/@wild-life-studio"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>&nbsp;
+    <a href="https://instagram.com/wl_pooriya"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+    <a href="https://pouriyaparniyan.ir/donate"><img src="https://img.shields.io/badge/Support-Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support" /></a>
+  </p>
 
   <br/><br/>
 
