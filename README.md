@@ -1,23 +1,16 @@
 <div align="center">
 
-  <!-- HERO SVG BANNER -->
+  <!-- ================= HERO SVG BANNER (CYBER GREEN THEME) ================= -->
   <a href="https://pouriyaparniyan.ir">
-    <img src="./assets/banner.svg" alt="Pouriya Parniyan - Full-Stack Developer & Software Craftsman" width="100%" />
+    <img src="./assets/banner.svg" alt="Pouriya Parniyan - Full-Stack Developer & Systems Craftsman" width="100%" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- DYNAMIC TYPING SVG -->
-  <a href="https://pouriyaparniyan.ir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=Full-Stack+Engineer+%26+System+Craftsman+💻;Architecting+High-Performance+Desktop+Apps+⚡;Founder+%26+Lead+at+Wild+Life+Studio+🏢;ENTJ-A+•+Strategic+Vision+%2B+Clean+Code+🎯;Fueled+by+Lo-Fi+Beats+%26+Midnight+Sessions+🎧" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- QUICK ACTION BADGES -->
+  <!-- ================= QUICK ACCESS & SOCIALS ================= -->
   <p align="center">
     <a href="https://pouriyaparniyan.ir">
-      <img src="https://img.shields.io/badge/Portfolio-pouriyaparniyan.ir-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Portfolio-pouriyaparniyan.ir-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://discord.gg/BgFABrF6km">
       <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -29,13 +22,8 @@
       <img src="https://img.shields.io/badge/Instagram-@wl__pooriya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="https://pouriyaparniyan.ir/donate">
-      <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate" />
+      <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate" />
     </a>
-  </p>
-
-  <!-- PROFILE VISITOR BADGE -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pooriyayt&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
   </p>
 
 </div>
@@ -47,13 +35,13 @@
 ```yaml
 identity:
   name: Pouriya Parniyan
-  role: Full-Stack Developer & Desktop Application Architect
+  role: Full-Stack Developer, Mobile OS & Systems Architect
   organization: Founder @ Wild Life Studio (wl-std)
-  personality: ENTJ-A (The Commander) — High standards, strategic execution & clean architecture
+  personality: ENTJ-A (The Commander) — High standards, architectural precision & relentless execution
   location: Iran 📍
-  passions: System utilities, high-concurrency bot infrastructure, responsive UI & developer tools
-  fuel: Lo-Fi beats, underground rap, and midnight code commits 🎧☕
-  current_mission: Engineering sleek Windows telemetry apps & robust monitoring platforms
+  passions: Operating systems (Pocket OS), system telemetry (Pulse), bot architectures & developer tools
+  fuel: Lo-Fi beats, underground rap, and midnight code sessions 🎧☕
+  current_focus: Evolving Pocket OS & architecting modern Windows system tools
 ```
 
 <br/>
@@ -63,11 +51,11 @@ identity:
     <td width="55%" valign="top">
       <h3>🚀 What I Do</h3>
       <ul>
-        <li>🖥️ <b>Desktop Architecture:</b> Crafting modern, fluent Windows 11 apps like <a href="https://github.com/pooriyayt/pulse-system-monitor"><b>Pulse System Monitor</b></a> with C# & .NET.</li>
-        <li>🌐 <b>Full-Stack Web:</b> Building resilient web services, uptime monitors (<a href="https://github.com/pooriyayt/uptimeplus.ir"><b>UptimePlus.ir</b></a>), and real-time dashboards.</li>
-        <li>🤖 <b>Bot Ecosystems:</b> Developing multi-purpose Discord bots (Music, Radio, Moderation, Tickets) handling complex user interactions.</li>
-        <li>🎨 <b>UI/UX & Visuals:</b> Translating complex workflows into intuitive, aesthetic interfaces using Figma & modern CSS frameworks.</li>
-        <li>⚡ <b>Open Source:</b> Contributing and shipping tools that make developers' lives easier.</li>
+        <li>📱 <b>Mobile Systems &amp; OS:</b> Architecting <a href="https://github.com/pooriyayt/PocketOS"><b>Pocket OS</b></a> — custom lightweight mobile OS experience in Kotlin for Android.</li>
+        <li>🖥️ <b>Desktop Architecture:</b> Crafting modern Windows 11 apps like <a href="https://github.com/pooriyayt/pulse-system-monitor"><b>Pulse System Monitor</b></a> with C# &amp; .NET Fluent UI.</li>
+        <li>🌐 <b>Full-Stack Web:</b> Building resilient web services and uptime platforms like <a href="https://github.com/pooriyayt/uptimeplus.ir"><b>UptimePlus.ir</b></a>.</li>
+        <li>🤖 <b>Bot Ecosystems:</b> Engineering high-concurrency Discord bots (Music, Radio, Moderation, Tickets) handling complex user workflows.</li>
+        <li>⚡ <b>Clean Architecture:</b> Passionate about performance, clean code patterns, and intuitive UI/UX.</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="middle">
@@ -88,17 +76,18 @@ identity:
 ### 💻 Core Languages
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-### ⚙️ Frameworks, Environments & Desktop
+### ⚙️ Frameworks, Desktop & Mobile
 <p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -107,7 +96,7 @@ identity:
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
 </p>
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases & Caching
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -142,27 +131,38 @@ identity:
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/pooriyayt/pulse-system-monitor">📊 Pulse System Monitor</a>
+        <a href="https://github.com/pooriyayt/PocketOS">📱 Pocket OS</a>
       </h3>
-      <p>A beautiful, modern Windows 11 task manager & system telemetry monitor. Featuring live CPU/GPU/RAM graphs, per-process analytics, and a fluent UI.</p>
+      <p>A lightweight, elegant, and modular custom mobile OS experience &amp; launcher for Android devices. Engineered in Kotlin with custom widgets and fluid animations.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Windows_11-Fluent_UI-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Fluent" />
+        <img src="https://img.shields.io/badge/Kotlin-Mobile_OS-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android-System-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+        <img src="https://img.shields.io/badge/Version-v1.5.1-00ff88?style=flat-square" alt="v1.5.1" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/pooriyayt/uptimeplus.ir">🌐 UptimePlus.ir</a>
+        <a href="https://github.com/pooriyayt/pulse-system-monitor">📊 Pulse System Monitor</a>
       </h3>
-      <p>Professional uptime & service monitoring system for websites and APIs. Offers real-time alerts, SLA reporting, and custom branded status pages.</p>
+      <p>A beautiful, modern Windows 11 task manager &amp; system telemetry monitor. Featuring live CPU/GPU/RAM graphs, per-process analytics, and a Fluent UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Cloudflare-Shield-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/C%23-Desktop-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Windows_11-Fluent_UI-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Fluent" />
       </p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/pooriyayt/uptimeplus.ir">🌐 UptimePlus.ir</a>
+      </h3>
+      <p>Professional uptime &amp; service monitoring system for websites and APIs. Offers real-time alerts, incident reporting, and custom branded status pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Cloudflare-Shield-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">
         <a href="https://github.com/pooriyayt/codepulse">⚡ CodePulse</a>
@@ -173,23 +173,13 @@ identity:
         <img src="https://img.shields.io/badge/HTML5/CSS3-Modern_Web-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Web" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="left">
-        <a href="https://github.com/pooriyayt/WL-Downloader">📥 WL-Downloader & Pro-Downloader</a>
-      </h3>
-      <p>Intelligent multi-threaded file downloader with smart categorization, queue management, and automated GitHub Actions workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
-      </p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/pooriyayt/discord-radio-bot">📻 Discord Radio & Music Bots</a>
+        <a href="https://github.com/pooriyayt/discord-radio-bot">📻 Discord Radio &amp; Music Suite</a>
       </h3>
-      <p>High-performance Discord music and radio bots supporting YouTube, Spotify, SoundCloud, and 24/7 web radio playback with low latency.</p>
+      <p>High-performance Discord music and radio bots supporting YouTube, Spotify, SoundCloud, and 24/7 web radio playback with ultra-low latency.</p>
       <p>
         <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
         <img src="https://img.shields.io/badge/Node.js-Async-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node" />
@@ -197,12 +187,12 @@ identity:
     </td>
     <td width="50%" valign="top">
       <h3 align="left">
-        <a href="https://github.com/pooriyayt/StudyMasterPro">📚 StudyMaster Pro</a>
+        <a href="https://github.com/pooriyayt/WL-Downloader">📥 WL-Downloader &amp; Pro-Downloader</a>
       </h3>
-      <p>Powerful desktop workflow and study management application built with PyQt5. Includes Pomodoro timers, habit trackers, and task analytics.</p>
+      <p>Intelligent multi-threaded file downloader with smart categorization, queue management, and automated GitHub Actions workflows.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-Desktop-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/PyQt5-GUI-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt5" />
+        <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Actions" />
       </p>
     </td>
   </tr>
@@ -217,19 +207,19 @@ identity:
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-stats.vercel.app/api?username=pooriyayt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8&icon_color=c084fc" alt="Pouriya's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=pooriyayt&show_icons=true&bg_color=040907&title_color=00ff88&icon_color=10b981&text_color=d1fae5&border_color=064e3b" alt="Pouriya's GitHub Stats" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e17&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooriyayt&layout=compact&bg_color=040907&title_color=00ff88&text_color=d1fae5&border_color=064e3b" alt="Top Languages" />
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
         <a href="https://github.com/pooriyayt">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyayt&theme=tokyonight&hide_border=true&background=0a0e17&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8" alt="Pooriya's Streak Stats" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=pooriyayt&background=040907&ring=00ff88&fire=10b981&currStreakLabel=00ff88&border=064e3b" alt="Pooriya's Streak Stats" />
         </a>
       </td>
     </tr>
@@ -251,11 +241,11 @@ identity:
 
 <div align="center">
 
-  <p>Whether you want to discuss a project, need a custom Discord bot, want to collaborate on open-source software, or just chat about code & beats:</p>
+  <p>Whether you want to discuss a project, need custom mobile/desktop architecture, want to collaborate on open-source software, or just chat about code & beats:</p>
 
   <p>
     <a href="https://pouriyaparniyan.ir">
-      <img src="https://img.shields.io/badge/Website-pouriyaparniyan.ir-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Website-pouriyaparniyan.ir-059669?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
     </a>
     <a href="https://discord.gg/BgFABrF6km">
       <img src="https://img.shields.io/badge/Discord_Server-Wild_Life-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
@@ -280,7 +270,7 @@ identity:
   <br/><br/>
 
   <p align="center">
-    <i>Crafted with 💙 by <b>Pouriya Parniyan</b> • Powered by Open Source</i>
+    <i>Crafted with 💚 by <b>Pouriya Parniyan</b> • Powered by Open Source</i>
   </p>
 
 </div>

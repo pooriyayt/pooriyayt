@@ -1,245 +1,222 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
   <defs>
-    <!-- Background Gradients -->
+    <!-- Background Gradient (Deep Cyber Emerald / Obsidian) -->
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0d14"/>
-      <stop offset="50%" stop-color="#0d111c"/>
-      <stop offset="100%" stop-color="#06080d"/>
+      <stop offset="0%" stop-color="#040907"/>
+      <stop offset="45%" stop-color="#08140e"/>
+      <stop offset="100%" stop-color="#020503"/>
     </linearGradient>
 
-    <!-- Glowing Orbs Gradients -->
-    <radialGradient id="glow-purple" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    <!-- Neon Emerald Glowing Orbs -->
+    <radialGradient id="glow-emerald-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow-cyan" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    <radialGradient id="glow-emerald-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#10b981" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow-pink" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ec4899" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    <radialGradient id="glow-mint" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Text Gradients -->
-    <linearGradient id="title-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8"/>
-      <stop offset="40%" stop-color="#818cf8"/>
-      <stop offset="75%" stop-color="#c084fc"/>
-      <stop offset="100%" stop-color="#f472b6"/>
+    <!-- Green Theme Title Gradient -->
+    <linearGradient id="title-grad-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff88"/>
+      <stop offset="35%" stop-color="#10b981"/>
+      <stop offset="70%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#a7f3d0"/>
     </linearGradient>
 
-    <linearGradient id="badge-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0284c7"/>
-      <stop offset="100%" stop-color="#6366f1"/>
+    <!-- Card & Border Gradients -->
+    <linearGradient id="card-border-green" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.7"/>
+      <stop offset="40%" stop-color="#10b981" stop-opacity="0.3"/>
+      <stop offset="75%" stop-color="#059669" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#064e3b" stop-opacity="0.8"/>
     </linearGradient>
 
-    <linearGradient id="accent-green" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10b981"/>
-      <stop offset="100%" stop-color="#34d399"/>
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07120c" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#030805" stop-opacity="0.98"/>
     </linearGradient>
 
-    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
-      <stop offset="35%" stop-color="#818cf8" stop-opacity="0.2"/>
-      <stop offset="70%" stop-color="#c084fc" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#1e293b" stop-opacity="0.7"/>
+    <linearGradient id="badge-green-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#064e3b" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#047857" stop-opacity="0.3"/>
     </linearGradient>
 
-    <linearGradient id="code-card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#111827" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#0b0f19" stop-opacity="0.95"/>
-    </linearGradient>
-
-    <!-- Subtle Grid Pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.7" stroke-opacity="0.25"/>
-      <circle cx="40" cy="40" r="1" fill="#38bdf8" fill-opacity="0.25"/>
+    <!-- Cyber Grid Pattern -->
+    <pattern id="cyber-grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#10b981" stroke-width="0.7" stroke-opacity="0.12"/>
+      <circle cx="36" cy="36" r="1" fill="#00ff88" fill-opacity="0.25"/>
     </pattern>
 
-    <!-- Drop Shadows -->
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.6"/>
+    <!-- Filters -->
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00ff88" flood-opacity="0.45"/>
     </filter>
-    <filter id="glow-text" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#818cf8" flood-opacity="0.5"/>
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.7"/>
     </filter>
 
     <style>
       .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
       .font-mono { font-family: 'Fira Code', 'JetBrains Mono', 'SF Mono', Consolas, Monaco, monospace; }
       
-      @keyframes pulse {
-        0%, 100% { opacity: 0.35; transform: scale(1); }
-        50% { opacity: 0.65; transform: scale(1.08); }
-      }
-      @keyframes float {
-        0%, 100% { transform: translateY(0px); }
-        50% { transform: translateY(-8px); }
-      }
       @keyframes blink {
         0%, 100% { opacity: 1; }
         50% { opacity: 0; }
       }
-      @keyframes scanline {
-        0% { transform: translateY(-100%); }
-        100% { transform: translateY(1000%); }
+      @keyframes soft-pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 0.55; }
       }
 
-      .floating-card { animation: float 6s ease-in-out infinite; }
       .cursor-blink { animation: blink 1.1s infinite; }
-      .ambient-pulse { animation: pulse 8s ease-in-out infinite; }
+      .ambient-glow { animation: soft-pulse 6s ease-in-out infinite; }
     </style>
   </defs>
 
-  <!-- Outer Background with Border -->
-  <rect width="1200" height="420" rx="24" fill="url(#bg-grad)"/>
-  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
+  <!-- Background Base -->
+  <rect width="1200" height="420" rx="22" fill="url(#bg-grad)"/>
+  <rect width="1200" height="420" rx="22" fill="url(#cyber-grid)"/>
 
-  <!-- Ambient Glowing Blobs -->
-  <circle cx="200" cy="120" r="240" fill="url(#glow-cyan)" class="ambient-pulse"/>
-  <circle cx="1020" cy="200" r="280" fill="url(#glow-purple)" class="ambient-pulse" style="animation-delay: -3s;"/>
-  <circle cx="620" cy="380" r="200" fill="url(#glow-pink)" class="ambient-pulse" style="animation-delay: -5s;"/>
+  <!-- Ambient Green Glowing Orbs -->
+  <circle cx="180" cy="140" r="220" fill="url(#glow-emerald-1)" class="ambient-glow"/>
+  <circle cx="950" cy="180" r="260" fill="url(#glow-emerald-2)" class="ambient-glow" style="animation-delay: -3s;"/>
+  <circle cx="580" cy="370" r="180" fill="url(#glow-mint)" class="ambient-glow" style="animation-delay: -4.5s;"/>
 
-  <!-- Outer Shiny Border -->
-  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="url(#card-border)" stroke-width="1.8"/>
+  <!-- Outer Glowing Border -->
+  <rect x="1.5" y="1.5" width="1197" height="417" rx="21" fill="none" stroke="url(#card-border-green)" stroke-width="1.8"/>
 
-  <!-- Top Status Bar in Window -->
-  <g transform="translate(60, 48)">
-    <!-- Terminal dots -->
-    <circle cx="0" cy="0" r="6" fill="#ef4444" opacity="0.9"/>
-    <circle cx="20" cy="0" r="6" fill="#f59e0b" opacity="0.9"/>
-    <circle cx="40" cy="0" r="6" fill="#10b981" opacity="0.9"/>
-    
-    <text x="65" y="4" class="font-mono" font-size="12" fill="#64748b" font-weight="500">pooriya@workstation: ~/portfolio</text>
+  <!-- Top System Header Bar -->
+  <g transform="translate(65, 45)">
+    <!-- Traffic lights -->
+    <circle cx="0" cy="0" r="5.5" fill="#ef4444" opacity="0.9"/>
+    <circle cx="18" cy="0" r="5.5" fill="#f59e0b" opacity="0.9"/>
+    <circle cx="36" cy="0" r="5.5" fill="#00ff88" opacity="0.9"/>
+
+    <text x="58" y="4" class="font-mono" font-size="12" fill="#6ee7b7" opacity="0.75" font-weight="500">pooriya@workstation: ~/portfolio</text>
 
     <!-- Live Status Indicator -->
-    <g transform="translate(980, -2)">
-      <rect x="-10" y="-10" width="105" height="24" rx="12" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-opacity="0.5"/>
-      <circle cx="2" cy="2" r="3.5" fill="#10b981"/>
-      <circle cx="2" cy="2" r="7" fill="none" stroke="#10b981" stroke-width="1" opacity="0.6"/>
-      <text x="14" y="6" class="font-sans" font-size="11" fill="#34d399" font-weight="700" letter-spacing="0.5">OPEN TO WORK</text>
+    <g transform="translate(970, -2)">
+      <rect x="-10" y="-10" width="105" height="24" rx="12" fill="#062217" stroke="#00ff88" stroke-width="1.2" stroke-opacity="0.6"/>
+      <circle cx="2" cy="2" r="3.5" fill="#00ff88"/>
+      <circle cx="2" cy="2" r="7" fill="none" stroke="#00ff88" stroke-width="1" opacity="0.6" class="cursor-blink"/>
+      <text x="14" y="6" class="font-sans" font-size="11" fill="#00ff88" font-weight="700" letter-spacing="0.5">OPEN TO WORK</text>
     </g>
   </g>
 
-  <!-- ================= LEFT COLUMN: HERO IDENTITY ================= -->
-  <g transform="translate(60, 115)">
-    <!-- Role Badge Pill -->
+  <!-- ================= LEFT COLUMN: HERO INFORMATION ================= -->
+  <g transform="translate(65, 115)">
+    <!-- Category Badge -->
     <g>
-      <rect x="0" y="0" width="220" height="28" rx="14" fill="#1e293b" fill-opacity="0.8" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4"/>
-      <circle cx="14" cy="14" r="4" fill="#38bdf8"/>
-      <text x="28" y="18" class="font-sans" font-size="12" fill="#7dd3fc" font-weight="700" letter-spacing="1.2">FULL-STACK ENGINEER</text>
+      <rect x="0" y="0" width="245" height="28" rx="14" fill="#062419" stroke="#00ff88" stroke-width="1.2" stroke-opacity="0.5"/>
+      <circle cx="14" cy="14" r="4" fill="#00ff88"/>
+      <text x="28" y="18" class="font-sans" font-size="12" fill="#6ee7b7" font-weight="700" letter-spacing="1">FULL-STACK &amp; SYSTEMS</text>
     </g>
 
     <!-- Main Name Title -->
-    <text x="0" y="78" class="font-sans" font-size="52" font-weight="900" fill="url(#title-grad)" filter="url(#glow-text)" letter-spacing="-0.5">
+    <text x="0" y="78" class="font-sans" font-size="48" font-weight="900" fill="url(#title-grad-green)" filter="url(#neon-glow)" letter-spacing="0.5">
       POURIYA PARNIYAN
     </text>
 
-    <!-- Subtitle / Motto -->
-    <text x="0" y="116" class="font-sans" font-size="20" font-weight="500" fill="#cbd5e1">
-      Architecting high-performance software, sleek UI &amp; smart bots
+    <!-- Subtitle / Mission -->
+    <text x="0" y="116" class="font-sans" font-size="18" font-weight="500" fill="#d1fae5">
+      Architecting high-performance systems, Pocket OS &amp; smart bots
     </text>
 
-    <!-- Tech Tagline / Keywords -->
-    <g transform="translate(0, 148)">
-      <text x="0" y="0" class="font-mono" font-size="14" fill="#94a3b8">
-        <tspan fill="#38bdf8">&gt;</tspan> C# <tspan fill="#64748b">•</tspan> Python <tspan fill="#64748b">•</tspan> JavaScript <tspan fill="#64748b">•</tspan> PHP <tspan fill="#64748b">•</tspan> MySQL <tspan fill="#64748b">•</tspan> Cloudflare
-      </text>
-    </g>
+    <!-- Tech Stack Line -->
+    <text x="0" y="148" class="font-mono" font-size="13.5" fill="#6ee7b7">
+      <tspan fill="#00ff88">&gt;</tspan> C# <tspan fill="#047857">•</tspan> Kotlin <tspan fill="#047857">•</tspan> Python <tspan fill="#047857">•</tspan> JavaScript <tspan fill="#047857">•</tspan> PHP <tspan fill="#047857">•</tspan> Cloudflare
+    </text>
 
-    <!-- Feature Pills Row -->
-    <g transform="translate(0, 186)">
-      <!-- Pill 1: Personality -->
+    <!-- Badges Row -->
+    <g transform="translate(0, 185)">
+      <!-- Pill 1: ENTJ-A -->
       <g>
-        <rect x="0" y="0" width="145" height="32" rx="16" fill="#111827" stroke="#6366f1" stroke-width="1" stroke-opacity="0.5"/>
-        <text x="14" y="20" class="font-sans" font-size="12" fill="#a5b4fc" font-weight="600">🎯 ENTJ-A Commander</text>
+        <rect x="0" y="0" width="145" height="32" rx="16" fill="#071b12" stroke="#10b981" stroke-width="1" stroke-opacity="0.5"/>
+        <text x="14" y="20" class="font-sans" font-size="12" fill="#a7f3d0" font-weight="600">🎯 ENTJ-A Commander</text>
       </g>
 
       <!-- Pill 2: Studio -->
       <g transform="translate(155, 0)">
-        <rect x="0" y="0" width="180" height="32" rx="16" fill="#111827" stroke="#ec4899" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="14" y="20" class="font-sans" font-size="12" fill="#f472b6" font-weight="600">🏢 Founder @ Wild Life</text>
+        <rect x="0" y="0" width="180" height="32" rx="16" fill="#071b12" stroke="#059669" stroke-width="1" stroke-opacity="0.5"/>
+        <text x="14" y="20" class="font-sans" font-size="12" fill="#6ee7b7" font-weight="600">🏢 Founder @ Wild Life</text>
       </g>
 
-      <!-- Pill 3: Music & Vibe -->
+      <!-- Pill 3: Vibe -->
       <g transform="translate(345, 0)">
-        <rect x="0" y="0" width="150" height="32" rx="16" fill="#111827" stroke="#10b981" stroke-width="1" stroke-opacity="0.4"/>
-        <text x="14" y="20" class="font-sans" font-size="12" fill="#6ee7b7" font-weight="600">🎧 Lo-Fi &amp; Rap Vibes</text>
+        <rect x="0" y="0" width="150" height="32" rx="16" fill="#071b12" stroke="#34d399" stroke-width="1" stroke-opacity="0.5"/>
+        <text x="14" y="20" class="font-sans" font-size="12" fill="#a7f3d0" font-weight="600">🎧 Lo-Fi &amp; Rap Vibes</text>
       </g>
     </g>
   </g>
 
-  <!-- ================= RIGHT COLUMN: INTERACTIVE CODE TERMINAL ================= -->
-  <g transform="translate(685, 84)" class="floating-card" filter="url(#shadow)">
-    <!-- Terminal Background Card -->
-    <rect width="455" height="275" rx="16" fill="url(#code-card-bg)"/>
-    <rect width="455" height="275" rx="16" fill="none" stroke="url(#card-border)" stroke-width="1.2"/>
+  <!-- ================= RIGHT COLUMN: CODE TERMINAL CARD (STATIC TRANSLATE - NO OVERLAP) ================= -->
+  <g transform="translate(675, 82)" filter="url(#card-shadow)">
+    <!-- Terminal Background -->
+    <rect width="460" height="275" rx="16" fill="url(#term-bg)"/>
+    <rect width="460" height="275" rx="16" fill="none" stroke="url(#card-border-green)" stroke-width="1.2"/>
 
     <!-- Terminal Header Bar -->
-    <rect width="455" height="36" rx="16" fill="#1e293b" fill-opacity="0.5"/>
-    <circle cx="24" cy="18" r="5" fill="#ef4444" opacity="0.8"/>
-    <circle cx="40" cy="18" r="5" fill="#f59e0b" opacity="0.8"/>
-    <circle cx="56" cy="18" r="5" fill="#10b981" opacity="0.8"/>
-    <text x="227" y="22" text-anchor="middle" class="font-mono" font-size="11" fill="#94a3b8" font-weight="500">developer.config.ts</text>
+    <rect width="460" height="36" rx="16" fill="#091d13" fill-opacity="0.75"/>
+    <circle cx="22" cy="18" r="4.5" fill="#ef4444" opacity="0.8"/>
+    <circle cx="36" cy="18" r="4.5" fill="#f59e0b" opacity="0.8"/>
+    <circle cx="50" cy="18" r="4.5" fill="#00ff88" opacity="0.8"/>
+    <text x="230" y="22" text-anchor="middle" class="font-mono" font-size="11.5" fill="#6ee7b7" font-weight="500">developer.config.ts</text>
 
-    <!-- Code Block Inside Terminal -->
-    <g transform="translate(24, 62)" class="font-mono" font-size="12.5" font-weight="500">
-      <!-- Line 1 -->
+    <!-- Code Content -->
+    <g transform="translate(22, 60)" class="font-mono" font-size="12" font-weight="500">
       <text x="0" y="0">
-        <tspan fill="#c084fc">const</tspan> <tspan fill="#38bdf8">developer</tspan> <tspan fill="#94a3b8">=</tspan> <tspan fill="#e2e8f0">{</tspan>
+        <tspan fill="#34d399">const</tspan> <tspan fill="#00ff88">developer</tspan> <tspan fill="#a7f3d0">=</tspan> <tspan fill="#ecfdf5">{</tspan>
       </text>
 
-      <!-- Line 2 -->
-      <text x="20" y="24">
-        <tspan fill="#e2e8f0">name:</tspan> <tspan fill="#a5f3fc">'Pouriya Parniyan'</tspan><tspan fill="#94a3b8">,</tspan>
+      <text x="18" y="22">
+        <tspan fill="#a7f3d0">name:</tspan> <tspan fill="#6ee7b7">'Pouriya Parniyan'</tspan><tspan fill="#a7f3d0">,</tspan>
       </text>
 
-      <!-- Line 3 -->
-      <text x="20" y="48">
-        <tspan fill="#e2e8f0">role:</tspan> <tspan fill="#a5f3fc">'Full-Stack &amp; Desktop Dev'</tspan><tspan fill="#94a3b8">,</tspan>
+      <text x="18" y="44">
+        <tspan fill="#a7f3d0">role:</tspan> <tspan fill="#6ee7b7">'Full-Stack &amp; Systems Engineer'</tspan><tspan fill="#a7f3d0">,</tspan>
       </text>
 
-      <!-- Line 4 -->
-      <text x="20" y="72">
-        <tspan fill="#e2e8f0">craft:</tspan> <tspan fill="#94a3b8">[</tspan><tspan fill="#fbcfe8">'Pulse Monitor'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fbcfe8">'UptimePlus'</tspan><tspan fill="#94a3b8">],</tspan>
+      <text x="18" y="66">
+        <tspan fill="#a7f3d0">craft:</tspan> <tspan fill="#a7f3d0">[</tspan><tspan fill="#fef08a">'Pulse Monitor'</tspan><tspan fill="#a7f3d0">, </tspan><tspan fill="#fef08a">'PocketOS'</tspan><tspan fill="#a7f3d0">, </tspan><tspan fill="#fef08a">'UptimePlus'</tspan><tspan fill="#a7f3d0">],</tspan>
       </text>
 
-      <!-- Line 5 -->
-      <text x="20" y="96">
-        <tspan fill="#e2e8f0">stack:</tspan> <tspan fill="#94a3b8">[</tspan><tspan fill="#fed7aa">'C#'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fed7aa">'Python'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fed7aa">'JS/TS'</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fed7aa">'PHP'</tspan><tspan fill="#94a3b8">],</tspan>
+      <text x="18" y="88">
+        <tspan fill="#a7f3d0">stack:</tspan> <tspan fill="#a7f3d0">[</tspan><tspan fill="#67e8f9">'C#'</tspan><tspan fill="#a7f3d0">, </tspan><tspan fill="#67e8f9">'Kotlin'</tspan><tspan fill="#a7f3d0">, </tspan><tspan fill="#67e8f9">'Python'</tspan><tspan fill="#a7f3d0">, </tspan><tspan fill="#67e8f9">'JS/TS'</tspan><tspan fill="#a7f3d0">],</tspan>
       </text>
 
-      <!-- Line 6 -->
-      <text x="20" y="120">
-        <tspan fill="#e2e8f0">mindset:</tspan> <tspan fill="#6ee7b7">'Excellence over Excuses'</tspan><tspan fill="#94a3b8">,</tspan>
+      <text x="18" y="110">
+        <tspan fill="#a7f3d0">mindset:</tspan> <tspan fill="#00ff88">'Excellence over Excuses'</tspan><tspan fill="#a7f3d0">,</tspan>
       </text>
 
-      <!-- Line 7 -->
-      <text x="20" y="144">
-        <tspan fill="#e2e8f0">hireable:</tspan> <tspan fill="#38bdf8">true</tspan>
+      <text x="18" y="132">
+        <tspan fill="#a7f3d0">hireable:</tspan> <tspan fill="#00ff88">true</tspan>
       </text>
 
-      <!-- Line 8 -->
-      <text x="0" y="168">
-        <tspan fill="#e2e8f0">};</tspan>
+      <text x="0" y="154">
+        <tspan fill="#ecfdf5">};</tspan>
       </text>
 
-      <!-- Line 9 (Prompt) -->
-      <text x="0" y="188">
-        <tspan fill="#10b981">➜</tspan> <tspan fill="#38bdf8">pooriyayt</tspan> <tspan fill="#f472b6">git:(main)</tspan> <tspan fill="#e2e8f0">pnpm build</tspan><tspan fill="#38bdf8" class="cursor-blink"> ▋</tspan>
+      <!-- Terminal Prompt with Blinking Cursor -->
+      <text x="0" y="180">
+        <tspan fill="#00ff88">➜</tspan> <tspan fill="#6ee7b7">pooriyayt</tspan> <tspan fill="#a7f3d0">git:(main)</tspan> <tspan fill="#f0fdf4">pnpm build</tspan><tspan fill="#00ff88" class="cursor-blink"> ▋</tspan>
       </text>
     </g>
 
-    <!-- Decorative Corner Glow -->
-    <circle cx="430" cy="235" r="30" fill="#38bdf8" opacity="0.1" filter="url(#shadow)"/>
+    <!-- Subtle Green Corner Glow -->
+    <circle cx="430" cy="245" r="24" fill="#00ff88" opacity="0.12"/>
   </g>
 
-  <!-- Bottom Accent Line -->
-  <g transform="translate(60, 395)">
-    <line x1="0" y1="0" x2="1080" y2="0" stroke="#334155" stroke-opacity="0.3" stroke-width="1"/>
-    <circle cx="20" cy="0" r="2" fill="#38bdf8"/>
-    <circle cx="540" cy="0" r="2" fill="#818cf8"/>
-    <circle cx="1060" cy="0" r="2" fill="#c084fc"/>
+  <!-- Bottom Cyber Divider Line -->
+  <g transform="translate(65, 395)">
+    <line x1="0" y1="0" x2="1070" y2="0" stroke="#064e3b" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="10" cy="0" r="2" fill="#00ff88"/>
+    <circle cx="535" cy="0" r="2" fill="#10b981"/>
+    <circle cx="1060" cy="0" r="2" fill="#34d399"/>
   </g>
 </svg>
